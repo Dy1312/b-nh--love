@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào cậu, tớ có điều muốn nói. </br> Làm người yêu tớ nhé!",
+  titleHeader: "Đã 1 tháng ròi đó:)). </br>Thứ sáu này hãy để tui chở về nha, à mà cho tui được phép nắm tay bé nhí nha:))!",
   descriptionHeader:
-    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
-  buttonYes: "Tớ đồng ý",
-  buttonNo: "Không đồng ý",
-  titleModar: "Cảm ơn cậu.",
+    "Hãy trả lời một cách thật lòng nhé. Nếu im lặng và rời đi thì tức là bé nhí đã ĐỒNG Ý.",
+  buttonYes: "oke tất nhin là cho ròi:))",
+  buttonNo: "Không đồng ý!!!",
+  titleModar: "Cảm ơn nhìuuuuu.",
   descriptionModar:
-    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ. </br> Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
+    "Cảm ơn bé nhí đã cho tui một cơ hội để tui có thể ở bên cạnh, che chở và bảo vệ bé. </br> Tui biết bé nhí có thể tự lo cho bản thân mình nhưng mà tui cũng muốn bé nhớ rằng là tui luôn ở phía sau để có thể giúp bé nhí bất cứ lúc nào đó nha nên đừng ngần ngại mà chia sẻ với tui. </br> tuy rằng mới quen mà đã xa nhau tận 3 tuần dài đằng đẳng (quá lâu) nhưng mà tui vẫn yêu bé nhí ko có thay đổi hay suy nghĩ gì hết à nha-.-, nên đừng có suy nghĩ gì tào lao hết á. </br> lần nữa cảm ơn bé nhí rất nhìu vì đã chịu tui nha và sẽ còn dài mãi về sauu </br> Love you <3",
 };
